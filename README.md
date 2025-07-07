@@ -1,33 +1,56 @@
->[IMPORTANT]
- <h1>📱 Nombre de la Aplicación 🔷🔶</h1>
-    <p>¡Gestiona tu tiempo de forma inteligente!</p>
-  </header>
 
   <section>
-    <h2>📝 Descripción</h2>
-    <p>¿Quieres aprovechar mejor tu tiempo? <strong>[Nombre de la Aplicación]</strong> es tu asistente digital para gestionar actividades de manera eficiente. Con una interfaz moderna, herramientas intuitivas y análisis de datos en tiempo real, esta app te permite planificar, organizar y personalizar tu día a día de forma sencilla y segura.</p>
-
-    <h2>⚙️ Principales funcionalidades</h2>
-      <li>✅ <strong>Registro y autenticación de usuarios:</strong> Accede a tu espacio personal de forma rápida y segura.</li>
-      <li>📊 <strong>Estadísticas en tiempo real:</strong> Monitorea tu progreso y analiza tu rendimiento diario.</li>
-      <li>🧠 <strong>Inteligencia artificial integrada:</strong> Recibe recomendaciones y alertas personalizadas.</li>
-      <li>🔐 <strong>Seguridad avanzada:</strong> Tus datos siempre protegidos mediante cifrado.</li>
-      <li>🛠️ <strong>Experiencia personalizable:</strong> Adapta la app a tus necesidades y preferencias.</li>
-    </ul>
-
-    <h2>🚀 Beneficios</h2>
-    <ul>
-      <li>✔️ Ahorra tiempo y aumenta tu productividad.</li>
-      <li>✔️ Mejora la organización de tus actividades diarias.</li>
-      <li>✔️ Disfruta de un entorno digital seguro y privado.</li>
-      <li>✔️ Recibe apoyo inteligente con IA para decisiones rápidas.</li>
-    </ul>
-
-    <a href="#" class="button">📲 ¡Descárgala ahora!</a>
+    <h1>📱 Planix 🔷🔶</h1>
   </section>
 
-  <footer>
-    <p>&copy; 2025 [Nombre de la Aplicación]. Todos los derechos reservados.</p>
-  </footer>
+  <section>
+    <h2>👨‍💻 Somos creadores de aplicaciones</h2>
+    <p>
+      Somos un equipo apasionado dedicado a crear aplicaciones que facilitan la vida de las personas.  
+      Nuestra misión es desarrollar herramientas intuitivas, seguras y eficientes para optimizar la gestión del tiempo y aumentar la productividad.
+    </p>
+  </section>
+
+  <section>
+    <h2>📝 Descripción de Planix</h2>
+    <p>
+      Planix es una aplicación que permite a los usuarios gestionar sus actividades de forma eficiente.  
+      Incluye herramientas intuitivas, una interfaz amigable y funcionalidades clave como análisis de datos y personalización del entorno.  
+      Es ideal para quienes buscan optimizar su tiempo y productividad.
+    </p>
+  </section>
+
+  <section>
+    <h2>⚙️ Funcionalidades de Planix 🔧</h2>
+    <ul>
+      <li>Registro y autenticación de usuarios</li>
+      <li>Visualización de estadísticas en tiempo real</li>
+      <li>Inteligencia artificial integrada</li>
+      <li>Seguridad de datos cifrada</li>
+      <li>Personalización de la experiencia del usuario</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🚀 Beneficios de usar Planix</h2>
+    <ul>
+      <li>Ahorra tiempo y aumenta tu productividad</li>
+      <li>Mejora la organización de tus actividades diarias</li>
+      <li>Disfruta de un entorno digital seguro y privado</li>
+      <li>Recibe apoyo inteligente con IA para decisiones rápidas</li>
+    </ul>
+  </section>
+
+  </section>
+
+  <section>
+    <h2>📬 Contacto</h2>
+    <p>
+      Si deseas contactarnos para sugerencias, preguntas o colaboraciones:<br />
+      📧 <a href="mailto:contacto@planixapp.com">contacto@planixapp.com</a><br />
+      🌐 <a href="https://www.planixapp.com" target="_blank" rel="noopener noreferrer">www.planixapp.com</a>
+    </p>
+  </section>
+
 </body>
 </html>
