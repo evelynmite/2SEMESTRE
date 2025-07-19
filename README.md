@@ -47,8 +47,7 @@
     <h2>📬 Contacto</h2>
     <p>
       Si deseas contactarnos para sugerencias, preguntas o colaboraciones:<br />
-      📧 <a href="mailto:evelynmite@gmail.com">contacto@planixapp.com</a><br />
-      🌐 <a href="https://www.planixapp.com" target="_blank" rel="noopener noreferrer">www.planixapp.com</a>
+      📧 <a href="mailto:evelynmite@gmail.com">evelynmite@gmail.com</a><br />
     </p>
   </section>
 
